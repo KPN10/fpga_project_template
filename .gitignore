@@ -1,0 +1,8 @@
+*.qsf
+*.qpf
+*.txt
+db
+incremental_db
+output_files
+artifacts
+**/project_info.svh
