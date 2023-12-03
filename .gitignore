@@ -1,10 +1,12 @@
 *.qsf
 *.qpf
 *.qws
-*.txt
+/*.txt
 .qsys_edit
 db
 incremental_db
 output_files
 artifacts
 **/project_info.svh
+**/*.qdz
+**/*.run
